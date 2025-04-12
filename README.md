@@ -1,5 +1,12 @@
 ## Hi there 👋
+- I am currently a CS student at BYU planning to graduate in December of 2025
 
+
+
+
+## 📫 How to Reach Me
+- LinkedIn: https://www.linkedin.com/in/koby-jensen
+  
 <!--
 **kobydj/kobydj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
